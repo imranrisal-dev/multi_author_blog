@@ -18,5 +18,5 @@ A full-featured backend blogging platform built with Django. It supports role-ba
 
 ### 1. Clone the Repository
 ```bash
-git clone [https://github.com/YOUR_USERNAME/multi_author_blog.git](https://github.com/YOUR_USERNAME/multi_author_blog.git)
+git clone https://github.com/imranrisal-dev/multi_author_blog.gitgit remote add origin https://github.com/imranrisal-dev/multi_author_blog.git
 cd multi_author_blog
